@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## This is a sub-heading on Github
+## This is a sub-heading on Github Romie
